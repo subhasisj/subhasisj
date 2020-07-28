@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can find more about me here : https://subhasisj.github.io/portfolio/
+
 <!--
 **subhasisj/subhasisj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
