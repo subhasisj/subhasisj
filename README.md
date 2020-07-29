@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Subhasis Jethy, Data Scientist @ SAP Labs.
+
 You can find more about me here : https://subhasisj.github.io/portfolio/
 
 <!--
