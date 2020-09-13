@@ -4,7 +4,7 @@ I am Subhasis Jethy, Senior Developer / Data Scientist @ SAP Labs.
 
 You can find more about me here : https://subhasisj.github.io/portfolio/
 
-"_One Commit as day, keeps doctor at bay._"
+"_One Commit as day, keeps the doctor at bay._"
 
 <!--
 **subhasisj/subhasisj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
