@@ -8,6 +8,9 @@ You can find more about me here : https://subhasisj.github.io/portfolio/
 
 ![Subhasis' github stats](https://github-readme-stats.vercel.app/api?username=subhasisj&theme=cobalt&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhasisj&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=subhasisj&repo=github-readme-stats)](https://github.com/subhasisj/github-readme-stats)
+
+
 
 <!--
 **subhasisj/subhasisj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
