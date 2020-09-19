@@ -6,6 +6,9 @@ You can find more about me here : https://subhasisj.github.io/portfolio/
 
 "_One Commit as day, keeps the doctor at bay._"
 
+[![Subhasis' github stats](https://github-readme-stats.vercel.app/api?username=subhasisj)](https://github.com/subhasisj/github-readme-stats)
+
+
 <!--
 **subhasisj/subhasisj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
