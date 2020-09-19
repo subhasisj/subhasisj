@@ -4,7 +4,7 @@ I am Subhasis Jethy, Senior Developer / Data Scientist @ SAP Labs.
 
 You can find more about me here : https://subhasisj.github.io/portfolio/
 
-"_One Commit as day, keeps the doctor at bay._"
+"_One Commit a day, keeps the doctor at bay._"
 
 ![Subhasis' github stats](https://github-readme-stats.vercel.app/api?username=subhasisj&theme=cobalt&show_icons=true)
 
