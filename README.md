@@ -6,7 +6,7 @@ You can find more about me here : https://subhasisj.github.io/portfolio/
 
 "_One Commit as day, keeps the doctor at bay._"
 
-![Subhasis' github stats](https://github-readme-stats.vercel.app/api?username=subhasisj&theme=dark&show_icons=true)
+![Subhasis' github stats](https://github-readme-stats.vercel.app/api?username=subhasisj&theme=cobalt&show_icons=true)
 
 
 
