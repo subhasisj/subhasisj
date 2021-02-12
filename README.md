@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Subhasis Jethy, Senior Data Scientist @ Refintiv.
+I am Subhasis Jethy, Senior Data Scientist @ Refinitiv.
 
 You can find more about me here : https://subhasisj.github.io/portfolio/
 
