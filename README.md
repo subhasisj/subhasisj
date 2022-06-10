@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Subhasis Jethy, `Senior Data Scientist` @ __Refinitiv__.
+I am Subhasis Jethy, `Principal Data Scientist` @ __Optum Labs (United Health Group)__.
 
 You can find more about me here : https://subhasisj.github.io/portfolio/
 
